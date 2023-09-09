@@ -1,0 +1,18 @@
+/* css-style for hompage, i.e. index.html, also with a minor change to the images 
+size of recipe pages */
+
+.recipe a {
+    color: red;
+}
+
+img.homepage-image, 
+ img.baguette-pizza,
+  img.kimchi-chicken, 
+   img.salmond-salad {
+    
+    height: auto;
+    width: 500px;
+}
+
+
+
